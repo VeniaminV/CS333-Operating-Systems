@@ -1,0 +1,12 @@
+*.o
+*~
+\#*
+labs/lab1-xor-encryption/encrypt-w-inode
+labs/lab1-xor-encryption/decrypt-w-inode
+labs/lab1-xor-encryption/encrypt-w-symlink
+labs/lab1-xor-encryption/decrypt-w-symlink
+labs/lab2-psups/psups
+labs/lab3-velocicryptor/velocicryptor
+labs/lab4-monitorasaurus/monitorasaurus
+labs/lab5-pyrofactor/pyrofactor
+labs/lab6-eoraptor-server/eoraptor_server
